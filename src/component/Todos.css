@@ -1,0 +1,43 @@
+.Todomain{
+    display: flex;
+   gap: 30px;
+    font-size: 25px;
+    margin: auto;
+    /* border: 2px solid black; */
+    width:500px;
+    height: 40px;
+    margin-top: 15px;
+    box-shadow: rgba(98, 96, 96, 0.25) 0px 14px 28px, rgba(102, 100, 100, 0.22) 0px 10px 10px;
+    /* background-color: ; */
+}
+.Todomain>button{
+    border-radius: 7px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.mainDiv{
+    height: auto;
+    /* background-color: black; */
+    width:550px;
+    margin: auto;
+    background-color: rgb(44, 44, 44);
+}
+.title{
+   color: white;
+}
+.mainDiv>input{
+    width:300px;
+    height: 30px;
+    border-radius: 7px;
+}
+.mainDiv>button{
+    border-radius: 7px;
+    font-size: 21px;
+    font-weight: bold;
+    margin-left: 15px;
+    background-color: black;
+    color: white;
+}
+.link{
+    color: rgb(244, 241, 241);
+}
